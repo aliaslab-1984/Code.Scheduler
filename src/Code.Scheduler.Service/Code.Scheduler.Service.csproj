@@ -53,6 +53,10 @@
       <HintPath>..\packages\Code.Configuration.1.5.1.0\lib\net40\Code.Configuration.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="Code.Logging, Version=0.3.8.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Code.Logging.0.3.8.0\lib\net452\Code.Logging.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="CodeProbe, Version=1.0.2.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\CodeProbe.1.0.2.0\lib\net40\CodeProbe.dll</HintPath>
       <Private>True</Private>
@@ -83,10 +87,6 @@
     </Reference>
     <Reference Include="Common.Logging.Log4Net1215, Version=3.3.1.0, Culture=neutral, PublicKeyToken=af08829b84f0328e, processorArchitecture=MSIL">
       <HintPath>..\packages\Common.Logging.Log4Net1215.3.3.1\lib\net40\Common.Logging.Log4Net1215.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="IDSign.Logging, Version=0.3.8.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\IDSign.Logging.0.3.8.0\lib\net452\IDSign.Logging.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="log4net, Version=1.2.15.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">

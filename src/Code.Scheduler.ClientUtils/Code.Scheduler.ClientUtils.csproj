@@ -30,8 +30,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="IDSign.Logging, Version=0.3.8.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\IDSign.Logging.0.3.8.0\lib\net452\IDSign.Logging.dll</HintPath>
+    <Reference Include="Code.Logging, Version=0.3.8.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Code.Logging.0.3.8.0\lib\net452\Code.Logging.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="log4net, Version=1.2.15.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
